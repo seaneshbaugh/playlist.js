@@ -1,0 +1,13 @@
+#media {
+	display: none;
+}
+
+#pl-playlist-controls {
+	overflow: hidden;
+}
+
+#pl-playlist #pl-playlist-controls a {
+	display: block;
+	float: left;
+	padding: 10px;
+}
